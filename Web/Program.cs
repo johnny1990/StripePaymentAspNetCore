@@ -25,3 +25,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+        Id = new Guid("tn2bd844-55hd-4cf3-a21a-53ea0cd9c200"),
