@@ -1,0 +1,17 @@
+﻿@model Models.TShirt
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Description <small class="text-muted">(by: @Model.Price</small>)</h5>
+        <p class="card-text">@Model.Description</p>
+    </div>
+ </div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

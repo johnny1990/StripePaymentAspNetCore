@@ -47,14 +47,14 @@ static void AddData(WebApplication app)
 
     var t1 = new TShirt
     {
-        Id = new Guid("tn2bd844-55hd-4cf3-a21a-53ea0cd9c200"),
+        Id = new Guid("ab2bd817-98cd-4cf3-a80a-53ea0cd9c200"),
         Description = "Polo Shirt",
         Price = "20.20"
     };
 
     var t2 = new TShirt
     {
-        Id = new Guid("117366b8-3541-4af8-8726-860d698e26a2"),
+        Id = new Guid("117366b8-3541-4ac5-8732-860d698e26a2"),
         Description = "Long Shirt",
         Price = "22.99"
     };
@@ -68,14 +68,14 @@ static void AddData(WebApplication app)
 
     var t4 = new TShirt
     {
-        Id = new Guid("cd5879dd-9754-4ed2-b44c-488f533243ef"),
+        Id = new Guid("cd5089dd-9754-4ed2-b44c-488f533243ef"),
         Description = "",
         Price = "19.00"
     };
 
     var t5 = new TShirt
     {
-        Id = new Guid("d32e0829-55fa-4c44-b54f-f345c123af99"),
+        Id = new Guid("d81e0829-55fa-4c37-b62f-f578c692af78"),
         Description = "",
         Price = "30.00"
     };
